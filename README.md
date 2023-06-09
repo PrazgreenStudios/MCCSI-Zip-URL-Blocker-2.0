@@ -39,3 +39,7 @@ Contributions are welcome! If you would like to contribute to the .zip URL Block
 4. Your contribution will be reviewed and merged if it meets the project's guidelines.
 
 All Credit To This Application Goes To Andrew Covert And Paul Rasmussen.
+
+## HAVING TROUBLE INSTALLING?
+If you can't seem to install the program, please let us know. Our contact information is in our website:
+https://mccsi.net
